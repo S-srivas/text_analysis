@@ -1,0 +1,4 @@
+duffer, 1
+bluffer, 2
+stuffer, 34
+suffer, 4
